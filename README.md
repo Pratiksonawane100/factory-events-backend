@@ -16,9 +16,6 @@ POST /events/batch
 GET /stats  
 GET /stats/top-defect-lines  
 
-## Testing
-All APIs tested using Postman (screenshots attached).
-
 ## Notes
 - Event deduplication handled using eventId
 - Validation rules implemented as per assignment
